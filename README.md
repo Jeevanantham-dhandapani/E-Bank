@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Authentication**.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bf8aa409-8856-42f0-9946-db750490d560" />The goal of this coding exam is to quickly get you off the ground with **Authentication**.
 
 ### Refer to the image below:
 
@@ -173,3 +173,4 @@ Returns a response based on the credentials provided
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory
+> - Click for Check Live demo https://JevDevEbankApp.ccbp.tech
